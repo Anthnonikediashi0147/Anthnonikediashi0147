@@ -1,5 +1,5 @@
 - 👋 Anthony Ikediashi
-- 👀 I’m a Data Entry A
+- 👀 I’m a Data Entry Analyst 
 - I specialized in power BI, Execl,Tabula ,SQL and Python.
 - 🌱 I’m currently learning Data Analysis with DAHEL TECHIES
 - 💞️ I’m looking to collaborate with industrial leaders for continuos improvement
