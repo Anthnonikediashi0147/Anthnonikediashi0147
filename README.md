@@ -1,8 +1,8 @@
 - 👋 Anthony Ikediashi
-- 👀 I’m a Data Entry clerk
+- 👀 I’m a Data Entry A
 - I specialized in power BI, Execl,Tabula ,SQL and Python.
 - 🌱 I’m currently learning Data Analysis with DAHEL TECHIES
-- 💞️ I’m looking to collaborate with industrial leaders to improve more skills
+- 💞️ I’m looking to collaborate with industrial leaders for continuos improvement
 - 📫 You can reach me[Linkedlin](https://www.linkedin.com/in/anthonycare1928?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - ⚡ Fun fact: Data is an advance information
 
